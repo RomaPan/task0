@@ -1,0 +1,24 @@
+From b8c0173960bc39e4870da53c6e3a7c620e4ae1d3 Mon Sep 17 00:00:00 2001
+From: Raman Pantsialeyeu <romasdk7@gmail.com>
+Date: Wed, 25 Dec 2019 21:51:03 +0300
+Subject: [PATCH] modified 2 lines on git_0 branch
+
+---
+ 1.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/1.txt b/1.txt
+index a04210a..6e3271f 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,5 +1,5 @@
+-1
+-1
++modified two
++lines via git_0
+ 1
+ 1
+ 1
+-- 
+2.21.0.windows.1
+
