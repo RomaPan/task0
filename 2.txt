@@ -1,5 +1,5 @@
-2
-2
+two lines amended 
+from git_1
 2
 2
 2
