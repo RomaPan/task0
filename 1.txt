@@ -4,9 +4,18 @@ lines via git_0
 modified another
 two lines in file
 1
+1
+1
+changed another two
+lines via folder 1
 changed two lines
 via folder_2
 1
 1
+
 new changes should
 go into stash
+
+
+
+>>>>>>> 7c9c1068f75b22c7aea94322fe578e49437dcaea
