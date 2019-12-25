@@ -8,4 +8,9 @@ two lines in file
 1
 changed another two
 lines via folder 1
+changed two lines
+via folder_2
+1
+1
+
 
