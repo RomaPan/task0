@@ -4,8 +4,8 @@ lines via git_0
 modified another
 two lines in file
 1
-1
-1
+changed two lines
+via folder_2
 1
 1
 
