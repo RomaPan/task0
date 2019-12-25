@@ -6,6 +6,6 @@ two lines in file
 1
 1
 1
-1
-1
+changed another two
+lines via folder 1
 
