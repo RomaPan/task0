@@ -1,8 +1,8 @@
-modified two
-lines via git_0
 1
-modified another
-two lines in file
+1
+1
+1
+1
 1
 1
 1
