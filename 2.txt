@@ -1,5 +1,9 @@
 updated two lines
 from git_0 branch
+
+two lines amended 
+from git_1
+
 2
 2
 2
